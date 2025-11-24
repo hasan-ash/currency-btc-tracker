@@ -25,3 +25,8 @@ Each run automatically saves data into a CSV log.
 ## ▶️ How to Run
 bash
 python currency_tracker.py
+
+---
+
+## 👤 Author
+Developed by *hasan-ash*
